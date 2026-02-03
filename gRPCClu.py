@@ -168,7 +168,3 @@ if __name__ == "__main__":
     ex = gRPCClusterApp()
     ex.show()
     sys.exit(app.exec_())
-
-
-
-
